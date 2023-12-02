@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Boolean Retrieval System is a project designed for processing and retrieving information from Persian books and English movie summaries. The project is divided into three main parts:
+The Boolean Retrieval System is a project designed for processing and retrieving information from Persian books and English movie summaries by queries. The project is divided into three main parts:
 
 1. **Text Preprocessing:**
    - Tokenization
@@ -11,16 +11,16 @@ The Boolean Retrieval System is a project designed for processing and retrieving
    - Stop words removal
 
 2. **Inverted Index Creation:**
-   - Utilizes the posting-dictionary concept
+   - Utilizes the dictionary-posting concept
    - Orders items based on their repetition in documents
 
 3. **Boolean Retrieval Model:**
-   - Implements a matrix to store tokens with their binary representation in documents
+   - Implements a matrix to store representation of tokens in documents in binary format
    - Allows users to input queries in a specified format for retrieval
   
 ## Datasets
 
-The required datasets for this project are available, and you can download them directly in Google Colab. The links to the datasets are provided in the notebook
+The required datasets for this project are available, and you can download them directly in Google Colab. The links to the datasets are provided in the notebook.
 
 ## Usage
 
