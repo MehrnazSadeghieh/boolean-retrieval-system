@@ -47,7 +47,6 @@ To use the Boolean Retrieval System, follow these steps:
 ### Query Example
 `city+!church.taxi+!six`
 
-## Google Colab
+## Note
 
 This project is implemented in Google Colab
-Open the notebook in Google Colab by clicking on the following link:  https://colab.research.google.com/drive/1eJrS0XcQOIAbsIolL1CVe2lNnVUuZtB0#scrollTo=p3WoHUaUKQo1
