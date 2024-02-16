@@ -48,16 +48,13 @@ To use the Boolean Retrieval System, follow these steps:
 `city+!church.taxi+!six`
 
 ## Contact Us
-We're excited to hear from you! If you have any questions, suggestions, or need assistance, don't hesitate to reach out.
-Feel free to contact us via email at:
+
+We're excited to hear from you! If you have any questions, suggestions, or need assistance, don't hesitate to reach out. Feel free to contact us via email at:
 
 - neg.jaafari@gmail.com
-- noorbakhsha1@gmail.com.
-  
+- noorbakhsha1@gmail.com
+- Mehrnaz271380@gmail.com
+
 We're here to help and would love to hear about your experience using this project.
-
-## Note
-
-This project is implemented in Google Colab
 
 
